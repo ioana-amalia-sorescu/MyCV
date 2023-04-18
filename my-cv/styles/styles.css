@@ -1,0 +1,289 @@
+body {
+    background-color: #CCCCCC;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+
+.right-section{
+    padding-left: 100px;
+    padding-right: 50px;
+    background-color: #FFF;
+    border-radius: 10px;
+}
+
+.about-me-profession{
+    color: black;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    padding-top: 15px;
+    
+}
+
+#personName{
+    font-family: 'Metrophobic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 55px;
+    text-align: left;
+    margin-top: 30px;
+    
+}
+
+.main-section {
+    display : flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+}
+
+
+.about-me-section{
+    background-color:#FFF;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    width: 450px;
+}
+.about-me-section p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.courses-section{
+    font-family: 'Montserrat';
+    font-style: normal;
+    background-color: #FFF;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+
+.courses-section ol {
+    padding-left: 18px;
+
+}
+
+
+ol li, .bracket{
+    color: #000;
+    font-weight: 700;
+}
+
+.courses-item{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #595959;
+    margin-left: 10px;
+    
+}
+
+.education-section{
+    font-family: 'Montserrat';
+    font-style: normal;
+    background-color: #FFF;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 35px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.education-position{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.education-experience{
+    color:#FB6D3A;
+}
+
+.education-experience-period{   
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.line-break{
+    color: #000;
+}
+
+.education-experience-description{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    padding-left: 15px;
+
+}
+
+.education-experience-description li{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+
+.university-results{
+    font-family: 'Montserrat';
+    font-style: normal;
+    background-color: #FFF;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.university-results ul{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    padding-left: 15px;
+    
+}
+
+.average-results{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+
+
+/* Sidebar styles */
+.sidebar-section img{
+    margin-top: 20px;
+    border-radius: 10px
+}
+
+.sidebar-section{
+    background-color:#1E2939 ;
+    font-size: 12px;
+    width: 250px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    border-radius: 10px ;
+    
+}
+
+
+
+.sidebar-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFF;
+}
+
+.contacts-section .tech-skills-section{
+    font-family: 'Montserrat';
+    font-style: normal;
+    margin-left: 10px;
+}
+
+.contacts-section-type{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 24px;
+    color: #FFF;
+    margin-right: 1px;
+
+}
+
+.contacts-section-value{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #8E949C;
+
+}
+
+.sidebar-list{
+    color: #FB6D3A;
+    padding-left: 20px;
+}
+
+.sidebar-list span{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color:#FFF;
+
+}
+
+.sidebar-soft-list{
+    color: #FB6D3A;
+    padding-left: 20px;
+
+}
+
+.sidebar-soft-list span{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color:#FFF;
+
+}
+
+.sidebar-languages-list{
+    color: #FB6D3A;
+    padding-left: 20px;
+    font-size: 15px;
+
+}
+
+.sidebar-languages-list span{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color:#FFF;
+
+}
+
+
